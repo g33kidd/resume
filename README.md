@@ -46,7 +46,7 @@ Deviceful was mostly an experimental company. We built mobile apps, web services
 ### Why should you hire me?
 Over the years I've done a number of things. From building a web app with an OAuth Provider and API that communicates with React, to building a Flight Sim stats analyzer using FSUIPC, SimConnect, and C#. Obviously, I don't know everything there is to know, though I've definitely retained a lot of information over the years. It's probably coming up on 7 or 8 years since I've been programming.
 
-I **Love** building things. Especially awesome software that people use. That's why I started programming, so I could build stuff and solve complicated (or not so much) problems. If you do a whiteboard interview, consider skipping it for me and have me write some code, I don't do well with tests, I do well with solving problems that actually need to be solved.
+I **Love** building things. Especially awesome software that people use. That's why I started programming, so I could build stuff and solve complicated (or not so much) problems.
 
 I do indeed work well in a team. With PRL I work with over 40+ people doing things such as Graphics, Management, Development and other PR stuff. I've worked remote a couple of times and absolutely love it, though I also like working in an office setting.
 
