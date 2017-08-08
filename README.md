@@ -66,4 +66,4 @@ I **Love** building things. Especially awesome software that people use. That's 
 
 I do indeed work well in a team. With PRL I work with over 40+ people doing things such as Graphics, Management, Development and PR stuff. I've worked remote a couple of times and absolutely love it, though I also like working in an office setting.
 
-If you like what you see or if you're curious to know more. Please email me at kidd.josh.343@gmail.com and I'll get back to you!
+If you like what you see or if you're curious to know more. Please email me at kidd.josh.343@gmail.com and I'll get back to you! Or if you use discord you can find me at "g33kidd#2163" and send me a DM :)
