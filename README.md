@@ -7,7 +7,7 @@ You can find a lot of my projects on GitHub @g33kidd, but I also have a lot of p
 
 ###### SocialFund – 2017
 **Website**: https://fund.social
-SocialFund is a Social Crowdfunding platform. Think twitter for crowdfunding. You send "notes" to crowdfunding campaigns in a timeline of notes. Each note comes with a donation for the cause. First version was built for my mother as a basic version. Currently working on the next version allowing people to create their own funds.
+SocialFund is a Social Crowdfunding platform. Think twitter for crowdfunding. You send "notes" to crowdfunding campaigns in a timeline of notes. Each note comes with a donation for the cause. First version was built for my mother as a basic version. Currently the site is a single fundraiser I started for my mother, but I haven't had the time to update to allow other people to create funds.
 
 ### Skills
 I've worked with a number of frameworks and languages. Here's just a few:
@@ -16,7 +16,7 @@ I've worked with a number of frameworks and languages. Here's just a few:
 
 **Front-end Frameworks**: React, VueJS, EmberJS, Angular, Backbone
 
-**Languages**: Ruby, Elixir, Crystal, NodeJS/JavaScript, C#(Unity), Python, Kotlin, Swift, Java, R, PHP
+**Languages**: Ruby, Elixir, Crystal, NodeJS/JavaScript, C#(Unity), Python, Kotlin, Swift, Java, R, PHP, GDScript, TypeScript, C++ (only learned in school, never used outside of school)
 
 **Other**: React Native, Meteor, Vapor (Swift Web Framework)
 
@@ -60,7 +60,7 @@ GetQD or now known as ShowPass is a ticketing system similar to EventBrite. It a
 Working with RiteTag was primarily me working on various bug fixes. I started a massive refactoring project to help make the code more readable, that eventually helped in letting others join the RiteTag team.
 
 ### Why should you hire me?
-Over the years I've done a number of things. From building a web app with an OAuth Provider and API that communicates with React, to building a Flight Sim stats analyzer using FSUIPC, SimConnect, and C#. Obviously, I don't know everything there is to know, though I've definitely retained a lot of information over the years. It's probably coming up on 7 or 8 years since I've been programming.
+Over the years I've done a number of things. From building a web app with an OAuth Provider and API that communicates with React, to building a Flight Sim stats analyzer using FSUIPC, SimConnect, and C#. Obviously, I don't know everything there is to know, though I've definitely retained a lot of information over the years. It's probably coming up on 7 or 8 years since I've been programming and I'd like to contiune programming.
 
 I **Love** building things. Especially awesome software that people use. That's why I started programming, so I could build stuff and solve complicated (or not so much) problems.
 
