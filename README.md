@@ -7,6 +7,7 @@ You can find a lot of my projects on GitHub @g33kidd, but I also have a lot of p
 
 ###### g33kbot - 2017
 **Repo**: https://github.com/g33kidd/g33kbot
+
 I'm huge into Discord. As I use it daily I thought it would be fun to build a bot in my favorite language, Crystal. During development of this project, I streamed live on twitch. For the first thing I created a command runner, which takes in some content and determines which command is able to run for the message created. Lastly, I created a controller that adds Recast.ai functionality so users in my server can chat with the bot, ask questions and much more! Overall, this was a quick project, but a fun one!
 
 ###### Fallen - 2017
@@ -14,6 +15,7 @@ Fallen is a 2D platformer survival game I'm currently building in the Godot game
 
 ###### SocialFund – 2017
 **Website**: https://fund.social
+
 SocialFund is a Social Crowdfunding platform. Think twitter for crowdfunding. You send "notes" to crowdfunding campaigns in a timeline of notes. Each note comes with a donation for the cause. First version was built for my mother as a basic version. Currently the site is a single fundraiser I started for my mother, but I haven't had the time to update to allow other people to create funds. 
 
 ### Skills
@@ -31,6 +33,7 @@ I've worked with a number of frameworks and languages. Here's just a few:
 
 ###### Pro Rivalry League, Remote – 2016 to Present – Developer Operations
 **Tech**: WordPress, NodeJS, AdonisJS, Laravel, VueJS, ReactJS, Elixir, Python
+
 **Website**: http://prorl.com http://twitch.tv/prorivalry
 
 PRL is one of the finest eSport tournament organizations for Rocket League. We host weekly events that allow players to compete for a prize-pool. We build the primary features on http://prorl.com that allow players to find their matches and signup for tournaments. We're also building Overlay tools to allow our Broadcasters and casters show detailed information about the current matches that are being played at any given moment.
@@ -39,12 +42,14 @@ I'm primarily responsible for helping manage our developers and getting the deve
 
 ###### WebDevStudios, Remote – 2016 – Back-end Consultant
 **Tech**: WordPress, jQuery, Sass, Gulp, Grunt, NodeJS
+
 **Website**: http://webdevstudios.com
 
 Being a back-end developer at WDS was exciting. Not only because of the projects, but because of the people working there. Truly awesome people. I mainly worked with WordPress, Backbone.js, jQuery, and SCSS.
 
 ###### Folsom Creative, Fort Collins, CO – 2014 to 2016 – Lead Developer
 **Tech**: WordPress, jQuery, Sass, Gulp, Grunt, NodeJS, Meteor, Ruby on Rails, Elixir
+
 **Website**: http://folsomcreative.com
 
 Working at Folsom was face-paced, relaxed, and a lot of work. It was also just 3 people at the time, so we put in work. We worked with WordPress primarily, along with the SASSY-Sass, JavaScript (jQuery, Backbone), and used Gulp/Grunt as build tools. I did have a project I built using MeteorJS, it was for a 20+ website dashboard that pulled in Google Analytics data every day. Overall I learned quite a bit about business working there.
@@ -56,12 +61,14 @@ Deviceful was mostly an experimental company. We built mobile apps, web services
 
 ###### GetQD – Remote – 2014 – Django Developer/Reporting System
 **Tech**: WordPress, Django, Python, Celery
+
 **Website**: http://myshowpass.com
 
 GetQD or now known as ShowPass is a ticketing system similar to EventBrite. It also has some venue management systems built in. I worked on building some reporting system back-end stuff. Also built a theme for WordPress.
 
 ###### RiteTag – Remote – 2013 – PHP Developer Intern
 **Tech**: PHP, MySQL, Yii Framework
+
 **Website**: http://RiteKit.com
 
 Working with RiteTag was primarily me working on various bug fixes. I started a massive refactoring project to help make the code more readable, that eventually helped in letting others join the RiteTag team.
