@@ -5,6 +5,10 @@ Looks like you've found my resume! Awesome! This is a document of my Skills, Pro
 ### Projects
 You can find a lot of my projects on GitHub @g33kidd, but I also have a lot of private repositories over on GitLab. Would be happy to let you have a look, if you're interested.
 
+###### g33kbot - 2017
+**Repo**: https://github.com/g33kidd/g33kbot
+I'm huge into Discord. As I use it daily I thought it would be fun to build a bot in my favorite language, Crystal. During development of this project, I streamed live on twitch. For the first thing I created a command runner, which takes in some content and determines which command is able to run for the message created. Lastly, I created a controller that adds Recast.ai functionality so users in my server can chat with the bot, ask questions and much more! Overall, this was a quick project, but a fun one!
+
 ###### Fallen - 2017
 Fallen is a 2D platformer survival game I'm currently building in the Godot game engine, which uses GDScript as a programming language. I haven't published any of the source code yet, but when I'm ready I will.
 
