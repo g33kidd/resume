@@ -1,73 +1,150 @@
-# A g33k's Resume
+# G33KIDD
 
-Looks like you've found my resume! Awesome! This is a document of my Skills, Projects and Experiences if you're wondering what they are.
+Looks like you've found my resume! Awesome!
+
+- [Projects](#projects) –– List of favorite projects I've worked on. Including links to the source.
+  - [G33kbot](#g33kbot-2017)
+  - [SocialFund](#socialfund-2017)
+  - [Other](#notable-mentions)
+- [Skills](#skills) –– List of frameworks/languages/tools I've worked with.
+  - [Languages](#languages)
+  - [Server/Backend](#server-backend)
+  - [Client/Frontend](#client-frontend)
+  - [Other Stuff](#other-stuff)
+- [Job Experience](#experience) –– List of companies I've worked for.
+  - [Rival Esports]()
+  - [WebDevStudios]()
+  - [Folsom Creative]()
+  - [Deviceful Inc.]()
+  - [Showpass]()
+  - [RiteTag/RiteKit]()
+
+---
 
 ### Projects
-You can find a lot of my projects on GitHub @g33kidd, but I also have a lot of private repositories over on GitLab. Would be happy to let you have a look, if you're interested.
+You can find a lot of my projects here on GitHub [@g33kidd](https://github.com/g33kidd), but I also have a lot of private repositories over on GitLab. If you let me know, I would gladly give you access to private repos if you would like to take a look. Some of my projects on GitHub are unfinished or no longer updated.
 
-###### g33kbot - 2017
+#### G33KBot (2017)
+
 **Repo**: https://github.com/g33kidd/g33kbot
+
+**Status**: Updating occasionally.
 
 I'm huge into Discord. As I use it daily I thought it would be fun to build a bot in my favorite language, Crystal. During development of this project, I streamed live on twitch. For the first thing I created a command runner, which takes in some content and determines which command is able to run for the message created. Lastly, I created a controller that adds Recast.ai functionality so users in my server can chat with the bot, ask questions and much more! Overall, this was a quick project, but a fun one!
 
-###### Fallen - 2017
-Fallen is a 2D platformer survival game I'm currently building in the Godot game engine, which uses GDScript as a programming language. I haven't published any of the source code yet, but when I'm ready I will.
+#### SocialFund (2017)
+**Repo**: Private
 
-###### SocialFund – 2017
-**Website**: https://fund.social
+~~**Website**: https://fund.social~~
 
-SocialFund is a Social Crowdfunding platform. Think twitter for crowdfunding. You send "notes" to crowdfunding campaigns in a timeline of notes. Each note comes with a donation for the cause. First version was built for my mother as a basic version. Currently the site is a single fundraiser I started for my mother, but I haven't had the time to update to allow other people to create funds. 
+**Status**: Offline.
+
+SocialFund ~~is~~ was a Social Crowdfunding platform. Think twitter for crowdfunding. You send "notes" to crowdfunding campaigns in a timeline of notes. Each note comes with a donation for the cause. First version was built for my mother as a basic version.
+
+#### Notable Mentions
+
+- [Dropbox API NodeJS](https://github.com/g33kidd/node-dropbox) –– Not currently maintained.
+- [Jet](https://github.com/g33kidd/jet) –– DOM tree implementation in Crystal
+
+---
 
 ### Skills
-I've worked with a number of frameworks and languages. Here's just a few:
 
-**Backend Frameworks**: Ruby on Rails, Phoenix, AdonisJS, Express, Laravel, Kemalyst
+Over the years I've worked with/learned a number of languages and frameworks. Here's a list of most things I have worked with. Listed in no specific order.
 
-**Front-end Frameworks**: React, VueJS, EmberJS, Angular, Backbone
+#### Languages
 
-**Languages**: Ruby, Elixir, Crystal, NodeJS/JavaScript, C#(Unity), Python, Kotlin, Swift, Java, R, PHP, GDScript, TypeScript, C++ (only learned in school, never used outside of school)
+- [Dart](https://www.dartlang.org/)
+- [Elixir](https://elixir-lang.org/)
+- [JavaScript](https://js.org/)
+- [Ruby](https://www.ruby-lang.org/en/)
+- [PHP](http://www.php.net/)
+- [Kotlin](https://kotlinlang.org/)
+- [Crystal](https://crystal-lang.org/)
+- [Swift](https://swift.org/)
+- [Java](https://java.com)
+- [TypeScript](http://www.typescriptlang.org/)
+- [Python](https://www.python.org)
 
-**Other**: React Native, Meteor, Vapor (Swift Web Framework)
+#### Server/Backend
+
+- [Node.js](https://nodejs.org/en/)
+- [Phoenix](http://phoenixframework.org/)
+- [Laravel](https://laravel.com/)
+- [Adonis](https://adonisjs.com/)
+- [Express](https://expressjs.com/)
+- [Meteor](https://www.meteor.com/)
+
+#### Client/Frontend
+
+- [Ember.js](https://www.emberjs.com/)
+- [Angular](https://angular.io/)
+- [Flutter](https://flutter.io/)
+- [React.js](https://reactjs.org/)
+- [Vue.js](https://vuejs.org/)
+- [React Native](https://facebook.github.io/react-native/)
+
+#### Other Stuff
+
+- [GraphQL](https://graphql.org/)
+- [WordPress](https://wordpress.org/)
+- jQuery
+- Sass/Scss
+- Less
+- PostCSS
+- MongoDB
+- PostgreSQL
+- MySQL
+- MariaDB
+- and a number of other libraries/tools.
+
+---
 
 ### Experience
 
-###### Pro Rivalry League, Remote – 2016 to Present – Developer Operations
-**Tech**: WordPress, NodeJS, AdonisJS, Laravel, VueJS, ReactJS, Elixir, Python
+#### Rival Esports –– _**2016 to Present**_
+**Location** Remote
 
-**Website**: http://prorl.com http://twitch.tv/prorivalry
+**Stack** WordPress, Node.js, Elixir, Laravel, React.js
 
-PRL is one of the finest eSport tournament organizations for Rocket League. We host weekly events that allow players to compete for a prize-pool. We build the primary features on http://prorl.com that allow players to find their matches and signup for tournaments. We're also building Overlay tools to allow our Broadcasters and casters show detailed information about the current matches that are being played at any given moment.
+**Website** http://rivalesports.com/ | http://twitch.tv/prorivalry
 
-I'm primarily responsible for helping manage our developers and getting the development done. This is a volunteer job.
+PRL is one of the finest eSport tournament organizations for Rocket League. We host weekly events that allow players to compete for a prize-pool. We build the primary features on http://prorl.com that allow players to find their matches and signup for tournaments. We're also building Overlay tools to allow our Broadcasters and casters show detailed information about the current matches that are being played at any given moment. This is a volunteer position.
 
-###### WebDevStudios, Remote – 2016 – Back-end Consultant
-**Tech**: WordPress, jQuery, Sass, Gulp, Grunt, NodeJS
+#### WebDevStudios –– _**2016**_ –– Backend Consultant
+**Stack**: WordPress, jQuery, Sass, Gulp, Grunt, NodeJS
 
 **Website**: http://webdevstudios.com
 
-Being a back-end developer at WDS was exciting. Not only because of the projects, but because of the people working there. Truly awesome people. I mainly worked with WordPress, Backbone.js, jQuery, and SCSS.
+Being a back-end developer at WDS was exciting. Not only because of the projects, but because of the people working there. Truly awesome people. I mainly worked with WordPress themes and plugins.
 
-###### Folsom Creative, Fort Collins, CO – 2014 to 2016 – Lead Developer
-**Tech**: WordPress, jQuery, Sass, Gulp, Grunt, NodeJS, Meteor, Ruby on Rails, Elixir
+#### Folsom Creative –– _**2014 to 2016**_ – Lead Developer
+**Stack**: WordPress, jQuery, Sass, Gulp, Grunt, NodeJS, Meteor, Ruby on Rails, Elixir
 
 **Website**: http://folsomcreative.com
 
 Working at Folsom was face-paced, relaxed, and a lot of work. It was also just 3 people at the time, so we put in work. We worked with WordPress primarily, along with the SASSY-Sass, JavaScript (jQuery, Backbone), and used Gulp/Grunt as build tools. I did have a project I built using MeteorJS, it was for a 20+ website dashboard that pulled in Google Analytics data every day. Overall I learned quite a bit about business working there.
 
-###### Deviceful Inc. – Remote/Irvine, CA – 2013 to 2014 – Software Engineer
-**Tech**: WordPress, Ruby on Rails, Swift, Java
+#### Deviceful Inc. –– _**2013 to 2014**_ –– Software Engineer
+**Location** Irvine, CA
 
-Deviceful was mostly an experimental company. We built mobile apps, web services, and a number of other things. Unfortunately the things we built were never released and had to abandon ship. I do still have some of the code I had built there, in GitHub some places. An example is my FallinDots game, which was built for iOS using Swift (https://github.com/g33kidd/FallinDots). This was released, but my iOS Developer License expired and had no interested in re-paying it.
+**Stack**: WordPress, Ruby on Rails, Swift, Java
 
-###### GetQD – Remote – 2014 – Django Developer/Reporting System
-**Tech**: WordPress, Django, Python, Celery
+Deviceful was mostly an experimental company. We built mobile apps, web services, and a number of other things. Unfortunately the things we built were never released and had to abandon ship. I do still have some of the code I had built there, in GitHub some places. An example is my FallinDots game, which was built for iOS using Swift (https://github.com/g33kidd/FallinDots).
 
-**Website**: http://myshowpass.com
+#### GetQD/Showpass –– _**2014**_ –– Django Developer/Reporting System
+**Location** Remote
+
+**Stack** WordPress, Django, Python, Celery
+
+**Website** http://myshowpass.com
 
 GetQD or now known as ShowPass is a ticketing system similar to EventBrite. It also has some venue management systems built in. I worked on building some reporting system back-end stuff. Also built a theme for WordPress.
 
-###### RiteTag – Remote – 2013 – PHP Developer Intern
-**Tech**: PHP, MySQL, Yii Framework
+#### RiteTag –– _**2013**_ – PHP Developer Intern
+**Location** Remote
+
+**Stack**: PHP, MySQL, Yii Framework
 
 **Website**: http://RiteKit.com
 
@@ -76,7 +153,7 @@ Working with RiteTag was primarily me working on various bug fixes. I started a 
 ### Why should you hire me?
 Over the years I've done a number of things. From building a web app with an OAuth Provider and API that communicates with React, to building a Flight Sim stats analyzer using FSUIPC, SimConnect, and C#. Obviously, I don't know everything there is to know, though I've definitely retained a lot of information over the years. It's probably coming up on 7 or 8 years since I've been programming and I'd like to contiune programming.
 
-I **Love** building things. Especially awesome software that people use. That's why I started programming, so I could build stuff and solve complicated (or not so much) problems.
+I **LOVE** building things. Especially awesome software that people use. That's why I started programming, so I could build stuff and solve problems.
 
 I do indeed work well in a team. With PRL I work with over 40+ people doing things such as Graphics, Management, Development and PR stuff. I've worked remote a couple of times and absolutely love it, though I also like working in an office setting.
 
