@@ -12,12 +12,12 @@ Looks like you've found my resume! Awesome!
   - [Client/Frontend](#client-frontend)
   - [Other Stuff](#other-stuff)
 - [Job Experience](#experience) –– List of companies I've worked for.
-  - [Rival Esports]()
-  - [WebDevStudios]()
-  - [Folsom Creative]()
-  - [Deviceful Inc.]()
-  - [Showpass]()
-  - [RiteTag/RiteKit]()
+  - [Rival Esports](#rival-esports--2016-to-present)
+  - [WebDevStudios](#webdevstudios--2016--backend-consultant)
+  - [Folsom Creative](#folsom-creative--2014-to-2016--lead-developer)
+  - [Deviceful Inc.](#deviceful-inc--2013-to-2014--software-engineer)
+  - [Showpass](#getqdshowpass--2014--django-developerreporting-system)
+  - [RiteTag/RiteKit](#ritetag--2013--php-developer-intern)
 
 ---
 
